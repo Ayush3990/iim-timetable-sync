@@ -1,0 +1,8141 @@
+{
+  "updatedAt": "2026-08-09T09:04:47.567Z",
+  "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
+  "rowCount": 1162,
+  "rows": [
+    [
+      "Date",
+      "Day",
+      "Timings (24 hrs format)",
+      "Section",
+      "Course-Section-Session#-Faculty-Classroom"
+    ],
+    [
+      "29-Jun-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 1 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 1 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 1 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 1 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 1 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 1 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 1 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 1 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 1 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 1 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 1 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 1 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 1 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 1 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 1"
+    ],
+    [
+      "30-Jun-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 1 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 2 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 1 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 2 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 2 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 1 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 2 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 1 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 2 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 2 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 1 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 2 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 2 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 2 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 2 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "1-Jul-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 2 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 3 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 1 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 1 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 1 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 2 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 2 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 2 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 3 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 1 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 1 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 1 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 2 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 2 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "2-Jul-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 2 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 4 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 1 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 2 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 2 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 1 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 1 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 4 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 2 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 2 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 2 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 3 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 4 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "3-Jul-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 2 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 2 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 2 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 2 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 2 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ME A 2 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 2"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 4"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 3"
+    ],
+    [
+      "4-Jul-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "6-Jul-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 3 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 3 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 3 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 3 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 3 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 3 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 3 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 3 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 3 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 3 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 3 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 3 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 3 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 4"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 5"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 4"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 4"
+    ],
+    [
+      "7-Jul-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 3 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 4 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 3 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 4 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 4 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 3 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 3 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 4 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 4 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 4 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 4 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 4 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "8-Jul-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 3 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 4 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 3 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 4 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 3 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 4 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 4 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 3 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 4 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 3 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 3 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 3 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 5"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 6"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 5"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 5"
+    ],
+    [
+      "9-Jul-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 4 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 4 Dr Sanjay Pareek CR-2 (Guest Lecture)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 4 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 4 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 4 Dr Sanjay Pareek MD-A (Guest Lecture)"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 4 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 3 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 4 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "10-Jul-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 4 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 4 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 4 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 6"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 7"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 6"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 6"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 7"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 8"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 7"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 7"
+    ],
+    [
+      "11-Jul-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "13-Jul-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 5 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 5 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 5 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 5 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 5 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 5 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 4 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 5 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 5 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 5 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 5 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 5 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 5 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 5 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 5 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 8"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 9"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 8"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 8"
+    ],
+    [
+      "14-Jul-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 5 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 6 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 5 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 6 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 6 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 5 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 6 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 5 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 6 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 6 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 5 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 6 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 6 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 6 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 6 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "15-Jul-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 5 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 6 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 7 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 5 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 6 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 4 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 5 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 6 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 6 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 5 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 6 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 7 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 5 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 5 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 5 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 9"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 10"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 6 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 6 Dr Rajesh Aithal CR-1"
+    ],
+    [
+      "16-Jul-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 6 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 8 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 6 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 6 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 6 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 6 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 5 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 8 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 6 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 5 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 6 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 7 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 8 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "17-Jul-2026",
+      "Friday",
+      "",
+      "D",
+      "FRA-Quiz D 1 Dr. Ranjeet Singh"
+    ],
+    [
+      "",
+      "",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 7 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 6 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 7 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 6 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 6 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 10"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 11"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 9"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 9"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 11"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 10"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 10"
+    ],
+    [
+      "18-Jul-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "20-Jul-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 7 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 7 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 7 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 7 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 7 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 7 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 7 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 7 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 7 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 7 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 7 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 7 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 7 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 12"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 12"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 11"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 11"
+    ],
+    [
+      "21-Jul-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 7 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 8 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 7 Dr Sanja Pattnayak LH-3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 8 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 8 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 7 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 7 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 8 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 8 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 8 Dr. Vasanthi Mamidala LH-3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 8 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 8 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 7 Dr Vikas Kumar LH-3"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 8 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "22-Jul-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 8 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 8 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 7 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 8 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 6 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 7 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 8 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 8 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 8 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 8 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 7 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 8 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 13"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 13"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 12"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 12"
+    ],
+    [
+      "23-Jul-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 8 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 8 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 9 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 8 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 8 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 9 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 7 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 8 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 7 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 9 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "18:15 - 19:45",
+      "D",
+      "MM-I D 10 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "24-Jul-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 10 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 8 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 10 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 8 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 11 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 8 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 9 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 12 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 14"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 14"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 13"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 13"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "25-Jul-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "27-Jul-2026",
+      "Monday",
+      "",
+      "A",
+      "ME-Quiz A 1 Dr Sanja Pattnayak"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME-Quiz B 1 Dr Sanja Pattnayak"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME-Quiz C 1 Dr Sanja Pattnayak"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME-Quiz D 1 Dr Sanja Pattnayak"
+    ],
+    [
+      "",
+      "",
+      "08:30 - 10:00",
+      "A",
+      "ME A 9 Dr Sanja Pattnayak LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 9 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 9 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 9 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 9 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 9 Dr Sanja Pattnayak CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 9 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 9 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 9 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 9 Dr Ujjwal Kango CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 9 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 9 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 9 Dr Ujjwal Kango LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 9 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 9 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "28-Jul-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 9 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 10 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 9 Dr Sanja Pattnayak CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 10 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 10 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 9 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 10 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 9 Dr Sanja Pattnayak MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 10 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM B 10 Dr Ujjwal Kango CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 10 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 10 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "LAM A 10 Dr Ujjwal Kango LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 10 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 10 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "29-Jul-2026",
+      "Wednesday",
+      "",
+      "A",
+      "QAM-I-Quiz A 1 Dr Kiran Kumar Paidipati"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I-Quiz B 1 Dr Kiran Kumar Paidipati"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA-Quiz C 1 Dr. Vasanthi Mamidala"
+    ],
+    [
+      "",
+      "",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 10 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 11 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 9 Dr Sanjay Pareek MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 10 Dr Sanja Pattnayak LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 9 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 9 Dr Sanjay Pareek CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 10 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 10 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 10 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 11 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 9 Dr Parul Malik LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 10 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "D",
+      "Quiz Slot D 14"
+    ],
+    [
+      "30-Jul-2026",
+      "Thursday",
+      "",
+      "A",
+      "BIO-Quiz A 1 Dr Parul Malik"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA-Quiz D 2 Dr. Ranjeet Singh"
+    ],
+    [
+      "",
+      "",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 10 Dr Sanja Pattnayak CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 12 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 10 Dr Sanja Pattnayak CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "LAM D 10 Dr Sanjay Pareek MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 9 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 12 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 10 Dr Parul Malik LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 10 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "LAM C 10 Dr Sanjay Pareek CR-2"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "31-Jul-2026",
+      "Friday",
+      "",
+      "A",
+      "LAM- Quiz A 1 Dr Ujjwal Kango"
+    ],
+    [
+      "",
+      "",
+      "",
+      "A",
+      "MM-I-Quiz A 1 Dr Shashi"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "LAM- Quiz B 1 Dr Ujjwal Kango"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I-Quiz B 1 Dr Devika Vashisht"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I-Quiz C 1 Dr Vikas Kumar"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I-Quiz D 1 Dr Rajesh Aithal"
+    ],
+    [
+      "",
+      "",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 10 Dr Sanja Pattnayak MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 10 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "C",
+      "Quiz Slot C 14"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 15"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 15"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 15"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 15"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 16"
+    ],
+    [
+      "1-Aug-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "10-Aug-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 11 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 11 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 11 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 11 Dr Sanjay Singh CR-4"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 11 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 11 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 11 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 11 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 1 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 11 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 1 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 11 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 11 Dr. Ranjeet Singh CR-2"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 16"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 16"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 16"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 17"
+    ],
+    [
+      "11-Aug-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 11 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 12 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 11 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 12 Dr Sanjay Singh CR-4"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 12 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 11 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 11 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 12 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 2 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 12 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 2 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 12 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 12 Dr. Ranjeet Singh CR-4"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "12-Aug-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 12 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 1 Dr Shashi Kant Srivastava LH-2"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 12 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 11 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 1 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 12 Dr Lakshmi Parvathy CR-4"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 12 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 12 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 11 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 11 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 17"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 17"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 17"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 18"
+    ],
+    [
+      "13-Aug-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 12 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 2 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 11 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 12 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 2 Dr Shashi Kant Srivastava LH-2"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 11 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 11 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 12 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 12 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "14-Aug-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 12 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 12 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 12 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 12 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 12 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 18"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 18"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 18"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 19"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 19"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 19"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 19"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 20"
+    ],
+    [
+      "17-Aug-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 13 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 13 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 13 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 13 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 13 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 13 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 13 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 13 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 3 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 13 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 3 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 13 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 13 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 20"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 20"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 20"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 21"
+    ],
+    [
+      "18-Aug-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 13 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 14 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 13 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 14 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 14 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 13 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 13 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 14 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 4 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 14 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 4 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 14 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 14 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "19-Aug-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 14 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 3 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 14 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 13 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 3 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 14 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 14 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 14 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 13 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 13 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 13 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 21"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 21"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 21"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 14 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "20-Aug-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 14 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 4 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 13 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 14 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 4 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 13 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 13 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 15 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 14 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 14 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 16 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "21-Aug-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 14 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 14 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 14 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 14 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 14 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 22"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 22"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 22"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 22"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 23"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 23"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 23"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 23"
+    ],
+    [
+      "22-Aug-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "24-Aug-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 15 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 15 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 15 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 15 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 15 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 15 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 15 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 13 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 15 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 5 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 13 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 15 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 5 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 15 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 15 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 24"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 24"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 24"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 24"
+    ],
+    [
+      "25-Aug-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 15 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 16 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 15 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 16 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 16 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 15 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 14 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 15 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 16 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 6 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 16 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 14 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 6 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 16 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 16 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "26-Aug-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 16 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 15 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 5 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 16 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 15 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 5 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 16 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 16 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 16 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 15 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 15 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 15 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 25"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 25"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 25"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 25"
+    ],
+    [
+      "27-Aug-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 16 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 16 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 15 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 16 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 6 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 15 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 15 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 16 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 16 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 16 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 6 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "28-Aug-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 16 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 17 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 16 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 16 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 16 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 17 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 16 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 26"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 26"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 26"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 26"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 27"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 27"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 27"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 27"
+    ],
+    [
+      "29-Aug-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "31-Aug-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 17 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 17 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 18 Dr Lakshmi Parvathy CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 17 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 17 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 17 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 17 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 17 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 17 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 7 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 17 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 18 Dr Lakshmi Parvathy MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 7 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 17 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 17 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 28"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 28"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 28"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 28"
+    ],
+    [
+      "1-Sep-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 17 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 18 Dr Kiran Kumar Paidipati CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 17 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 18 Dr Sanjay Singh MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 18 Dr Kiran Kumar Paidipati LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 17 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 18 Dr Suranjan Das CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 17 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 18 Dr Shashi LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 8 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 18 Dr. Vasanthi Mamidala CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 18 Dr Suranjan Das MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 8 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 18 Dr Rinki Dahiya CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 18 Dr. Ranjeet Singh MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "2-Sep-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 18 Dr Advaita Rajendra CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 19 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 7 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 18 Dr Aishwarya Harichandan LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 17 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 7 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 19 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 18 Dr Advaita Rajendra LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 19 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 19 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 17 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 17 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 17 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 29"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 29"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 29"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 18 Dr Rajesh Aithal MD-A (Feedback)"
+    ],
+    [
+      "3-Sep-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 18 Dr Aishwarya Harichandan CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 8 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I D 20 Dr Suranjan Das MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 17 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 18 Dr Aishwarya Harichandan CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 8 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 17 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 17 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 19 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 18 Dr Sonakshi Gupta LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 18 Dr Devika Vashisht CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "QAM-I C 20 Dr Suranjan Das CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I D 20 Dr Rajesh Aithal MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "4-Sep-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 18 Dr Amrinder Singh LH-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "CCTM C 20 Dr Lakshmi Parvathy CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 18 Dr Aishwarya Harichandan MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 18 Dr Amrinder Singh CR-1 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 18 Dr. Rahul Bodhi CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "CCTM D 20 Dr Lakshmi Parvathy MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 18 Dr Vikas Kumar CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 30"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 30"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 30"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 29"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 31"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 31"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 31"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 30"
+    ],
+    [
+      "5-Sep-2026",
+      "Saturday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "7-Sep-2026",
+      "Monday",
+      "08:30 - 10:00",
+      "A",
+      "ME A 19 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 19 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 19 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 19 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 19 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 19 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 19 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 9 Dr Ram Kumar Dhurkari CC-Lab (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 9 Dr Ram Kumar Dhurkari CC-Lab (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 19 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 19 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 32"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 32"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 32"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 31"
+    ],
+    [
+      "8-Sep-2026",
+      "Tuesday",
+      "08:30 - 10:00",
+      "A",
+      "CCTM A 19 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I B 20 Dr Kiran Kumar Paidipati CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 19 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO D 20 Dr Sanjay Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "QAM-I A 20 Dr Kiran Kumar Paidipati LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 19 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 19 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "MM-I A 20 Dr Shashi LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC B 10 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA C 20 Dr. Vasanthi Mamidala CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "ITC A 10 Dr Ram Kumar Dhurkari CC-Lab"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "BIO B 20 Dr Rinki Dahiya CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "FRA D 20 Dr. Ranjeet Singh MD-A"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "9-Sep-2026",
+      "Wednesday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "CCTM B 20 Dr Advaita Rajendra CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 9 Dr Shashi Kant Srivastava MD-A (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      "ME A 20 Dr Aishwarya Harichandan LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 19 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 9 Dr Shashi Kant Srivastava CR-2 (Feedback)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "CCTM A 20 Dr Advaita Rajendra LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 19 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 19 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 33"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 33"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 33"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 32"
+    ],
+    [
+      "10-Sep-2026",
+      "Thursday",
+      "08:30 - 10:00",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ME B 20 Dr Aishwarya Harichandan CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ITC C 10 Dr Shashi Kant Srivastava CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 19 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "ME C 20 Dr Aishwarya Harichandan CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC D 10 Dr Shashi Kant Srivastava MD-A"
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      "FRA A 19 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 19 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "BIO A 20 Dr Sonakshi Gupta LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I B 20 Dr Devika Vashisht CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "11-Sep-2026",
+      "Friday",
+      "08:30 - 10:00",
+      "A",
+      "FRA A 20 Dr Amrinder Singh LH-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ME D 20 Dr Aishwarya Harichandan MD-A"
+    ],
+    [
+      "",
+      "",
+      "10:15 - 11:45",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA B 20 Dr Amrinder Singh CR-1"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "BIO C 20 Dr. Rahul Bodhi CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "12:00 - 13:30",
+      "A",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I C 20 Dr Vikas Kumar CR-2"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      ""
+    ],
+    [
+      "",
+      "",
+      "14:30 - 16:00",
+      "A",
+      "Quiz Slot A 34"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 34"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 34"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 33"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
+      "Quiz Slot A 35"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 35"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 35"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 34"
+    ]
+  ]
+}

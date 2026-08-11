@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T12:00:15.104Z",
+  "updatedAt": "2026-08-11T13:45:35.313Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1162,
   "rows": [
@@ -6880,6 +6880,20 @@
     [
       "2-Sep-2026",
       "Wednesday",
+      "",
+      "A",
+      "QAM-I-Quiz A 2 Dr Kiran Kumar Paidipati"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "QAM-I-Quiz B 2 Dr Kiran Kumar Paidipati"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       ""
@@ -6993,20 +7007,6 @@
       "",
       "",
       "16:15 - 17:45",
-      "A",
-      "Quiz Slot A 29"
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      "Quiz Slot B 28"
-    ],
-    [
-      "",
-      "",
-      "",
       "C",
       "Quiz Slot C 29"
     ],
@@ -7246,14 +7246,14 @@
       "",
       "14:30 - 16:00",
       "A",
-      "Quiz Slot A 30"
+      "Quiz Slot A 29"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 29"
+      "Quiz Slot B 28"
     ],
     [
       "",
@@ -7274,14 +7274,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 31"
+      "Quiz Slot A 30"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 30"
+      "Quiz Slot B 29"
     ],
     [
       "",
@@ -7554,14 +7554,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 32"
+      "Quiz Slot A 31"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 31"
+      "Quiz Slot B 30"
     ],
     [
       "",
@@ -7834,14 +7834,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 33"
+      "Quiz Slot A 32"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 32"
+      "Quiz Slot B 31"
     ],
     [
       "",
@@ -8086,14 +8086,14 @@
       "",
       "14:30 - 16:00",
       "A",
-      "Quiz Slot A 34"
+      "Quiz Slot A 33"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 33"
+      "Quiz Slot B 32"
     ],
     [
       "",
@@ -8114,14 +8114,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 35"
+      "Quiz Slot A 34"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 34"
+      "Quiz Slot B 33"
     ],
     [
       "",

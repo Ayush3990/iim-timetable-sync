@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:46:27.400Z",
+  "updatedAt": "2026-08-25T13:13:56.711Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1162,
   "rows": [
@@ -6600,6 +6600,13 @@
     [
       "31-Aug-2026",
       "Monday",
+      "",
+      "D",
+      "FRA-Quiz D 4 Dr. Ranjeet Singh"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       "ME A 17 Dr Aishwarya Harichandan LH-2"
@@ -6729,13 +6736,6 @@
       "",
       "C",
       "Quiz Slot C 28"
-    ],
-    [
-      "",
-      "",
-      "",
-      "D",
-      "Quiz Slot D 28"
     ],
     [
       "1-Sep-2026",
@@ -7267,7 +7267,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 29"
+      "Quiz Slot D 28"
     ],
     [
       "",
@@ -7295,7 +7295,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 30"
+      "Quiz Slot D 29"
     ],
     [
       "5-Sep-2026",
@@ -7575,7 +7575,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 31"
+      "Quiz Slot D 30"
     ],
     [
       "8-Sep-2026",
@@ -7855,7 +7855,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 32"
+      "Quiz Slot D 31"
     ],
     [
       "10-Sep-2026",
@@ -8107,7 +8107,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 33"
+      "Quiz Slot D 32"
     ],
     [
       "",
@@ -8135,7 +8135,7 @@
       "",
       "",
       "D",
-      "Quiz Slot D 34"
+      "Quiz Slot D 33"
     ]
   ]
 }

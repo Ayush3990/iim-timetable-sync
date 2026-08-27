@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T23:38:25.569Z",
+  "updatedAt": "2026-08-27T09:54:19.951Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
-  "rowCount": 1162,
+  "rowCount": 1163,
   "rows": [
     [
       "Date",
@@ -6280,7 +6280,7 @@
       "",
       "",
       "C",
-      "ITC C 6 Dr Shashi Kant Srivastava CC-Lab"
+      ""
     ],
     [
       "",
@@ -6308,7 +6308,7 @@
       "",
       "",
       "C",
-      ""
+      "ITC C 6 Dr Shashi Kant Srivastava CC-Lab"
     ],
     [
       "",
@@ -6623,7 +6623,7 @@
       "",
       "",
       "C",
-      "CCTM C 19 Dr Lakshmi Parvathy CR-2"
+      ""
     ],
     [
       "",
@@ -6686,7 +6686,7 @@
       "",
       "",
       "D",
-      "CCTM D 18 Dr Lakshmi Parvathy LH-1 (Feedback)"
+      ""
     ],
     [
       "",
@@ -6945,7 +6945,7 @@
       "",
       "",
       "D",
-      "CCTM D 19 Dr Lakshmi Parvathy LH-1"
+      ""
     ],
     [
       "",
@@ -6966,7 +6966,7 @@
       "",
       "",
       "C",
-      "CCTM C 20 Dr Lakshmi Parvathy CR-2"
+      ""
     ],
     [
       "",
@@ -7078,7 +7078,7 @@
       "",
       "10:15 - 11:45",
       "A",
-      ""
+      "CCTM A 19 Dr Advaita Rajendra LH-2 (Guest Lecture)"
     ],
     [
       "",
@@ -7158,6 +7158,13 @@
       "MM-I D 20 Dr Rajesh Aithal LH-1"
     ],
     [
+      "",
+      "",
+      "17:30 - 19:00",
+      "D",
+      "CCTM D 18 Dr Lakshmi Parvathy LH-1 (Feedback) (Guest Lecture)"
+    ],
+    [
       "4-Sep-2026",
       "Friday",
       "08:30 - 10:00",
@@ -7176,7 +7183,7 @@
       "",
       "",
       "C",
-      "CCTM C 21 Dr Lakshmi Parvathy CR-2"
+      "CCTM C 19 Dr Lakshmi Parvathy CR-2"
     ],
     [
       "",
@@ -7211,7 +7218,7 @@
       "",
       "",
       "D",
-      "CCTM D 20 Dr Lakshmi Parvathy LH-1"
+      "CCTM D 19 Dr Lakshmi Parvathy LH-1"
     ],
     [
       "",
@@ -7239,7 +7246,7 @@
       "",
       "",
       "D",
-      ""
+      "CCTM D 20 Dr Lakshmi Parvathy LH-1"
     ],
     [
       "",
@@ -7260,7 +7267,7 @@
       "",
       "",
       "C",
-      "Quiz Slot C 30"
+      "CCTM C 20 Dr Lakshmi Parvathy CR-2"
     ],
     [
       "",
@@ -7288,7 +7295,7 @@
       "",
       "",
       "C",
-      "Quiz Slot C 31"
+      "Quiz Slot C 30"
     ],
     [
       "",
@@ -7440,6 +7447,20 @@
     [
       "7-Sep-2026",
       "Monday",
+      "",
+      "C",
+      "ITC-Quiz C 1 Dr Shashi Kant Srivastava"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "ITC-Quiz D 1 Dr Shashi Kant Srivastava"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       "ME A 19 Dr Aishwarya Harichandan LH-2"
@@ -7564,25 +7585,11 @@
       "Quiz Slot B 30"
     ],
     [
-      "",
-      "",
-      "",
-      "C",
-      "Quiz Slot C 32"
-    ],
-    [
-      "",
-      "",
-      "",
-      "D",
-      "Quiz Slot D 30"
-    ],
-    [
       "8-Sep-2026",
       "Tuesday",
       "08:30 - 10:00",
       "A",
-      "CCTM A 19 Dr Advaita Rajendra LH-2"
+      "CCTM A 20 Dr Advaita Rajendra LH-2"
     ],
     [
       "",
@@ -7778,7 +7785,7 @@
       "",
       "12:00 - 13:30",
       "A",
-      "CCTM A 20 Dr Advaita Rajendra LH-2"
+      "CCTM A 21 Dr Advaita Rajendra LH-2"
     ],
     [
       "",
@@ -7848,14 +7855,14 @@
       "",
       "",
       "C",
-      "Quiz Slot C 33"
+      "Quiz Slot C 31"
     ],
     [
       "",
       "",
       "",
       "D",
-      "Quiz Slot D 31"
+      "Quiz Slot D 30"
     ],
     [
       "10-Sep-2026",
@@ -8100,14 +8107,14 @@
       "",
       "",
       "C",
-      "Quiz Slot C 34"
+      "Quiz Slot C 32"
     ],
     [
       "",
       "",
       "",
       "D",
-      "Quiz Slot D 32"
+      "Quiz Slot D 31"
     ],
     [
       "",
@@ -8128,14 +8135,14 @@
       "",
       "",
       "C",
-      "Quiz Slot C 35"
+      "Quiz Slot C 33"
     ],
     [
       "",
       "",
       "",
       "D",
-      "Quiz Slot D 33"
+      "Quiz Slot D 32"
     ]
   ]
 }

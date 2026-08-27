@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T09:54:19.951Z",
+  "updatedAt": "2026-08-27T20:33:40.459Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1163,
   "rows": [
@@ -7120,7 +7120,7 @@
       "",
       "",
       "C",
-      "BIO C 17 Dr. Rahul Bodhi CR-2"
+      "QAM-I C 20 Dr Suranjan Das CR-2"
     ],
     [
       "",
@@ -7148,7 +7148,7 @@
       "",
       "",
       "C",
-      "QAM-I C 20 Dr Suranjan Das CR-2"
+      "BIO C 17 Dr. Rahul Bodhi CR-2"
     ],
     [
       "",
@@ -7587,6 +7587,13 @@
     [
       "8-Sep-2026",
       "Tuesday",
+      "",
+      "C",
+      "BIO-Quiz C 1 Dr. Rahul Bodhi"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       "CCTM A 20 Dr Advaita Rajendra LH-2"
@@ -7681,13 +7688,6 @@
       "",
       "B",
       "BIO B 20 Dr Rinki Dahiya CR-1"
-    ],
-    [
-      "",
-      "",
-      "",
-      "C",
-      ""
     ],
     [
       "",

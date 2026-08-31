@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:41:27.767Z",
+  "updatedAt": "2026-08-31T14:00:36.586Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1163,
   "rows": [
@@ -6894,6 +6894,20 @@
     [
       "",
       "",
+      "",
+      "C",
+      "QAM-I-Quiz C 1 Dr Suranjan Das"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "QAM-I-Quiz D 1 Dr Suranjan Das"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       ""
@@ -6943,13 +6957,6 @@
     [
       "",
       "",
-      "",
-      "D",
-      ""
-    ],
-    [
-      "",
-      "",
       "12:00 - 13:30",
       "A",
       "CCTM A 18 Dr Advaita Rajendra LH-2 (Feedback)"
@@ -6959,13 +6966,6 @@
       "",
       "",
       "B",
-      ""
-    ],
-    [
-      "",
-      "",
-      "",
-      "C",
       ""
     ],
     [
@@ -7448,6 +7448,20 @@
       "7-Sep-2026",
       "Monday",
       "",
+      "A",
+      "ITC-Quiz A 1 Dr Ram Kumar Dhurkari"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "ITC-Quiz B 1 Dr Ram Kumar Dhurkari"
+    ],
+    [
+      "",
+      "",
+      "",
       "C",
       "ITC-Quiz C 1 Dr Shashi Kant Srivastava"
     ],
@@ -7569,20 +7583,6 @@
       "",
       "D",
       "FRA D 19 Dr. Ranjeet Singh MD-A"
-    ],
-    [
-      "",
-      "",
-      "16:15 - 17:45",
-      "A",
-      "Quiz Slot A 31"
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      "Quiz Slot B 30"
     ],
     [
       "8-Sep-2026",
@@ -7841,14 +7841,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 32"
+      "Quiz Slot A 31"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 31"
+      "Quiz Slot B 30"
     ],
     [
       "",
@@ -8093,14 +8093,14 @@
       "",
       "14:30 - 16:00",
       "A",
-      "Quiz Slot A 33"
+      "Quiz Slot A 32"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 32"
+      "Quiz Slot B 31"
     ],
     [
       "",
@@ -8121,14 +8121,14 @@
       "",
       "16:15 - 17:45",
       "A",
-      "Quiz Slot A 34"
+      "Quiz Slot A 33"
     ],
     [
       "",
       "",
       "",
       "B",
-      "Quiz Slot B 33"
+      "Quiz Slot B 32"
     ],
     [
       "",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T05:52:02.561Z",
+  "updatedAt": "2026-09-03T11:20:00.728Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1163,
   "rows": [
@@ -7727,6 +7727,48 @@
     [
       "9-Sep-2026",
       "Wednesday",
+      "",
+      "A",
+      "MM-I-Quiz A 2 Dr Shashi"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "MM-I-Quiz B 2 Dr Devika Vashisht"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "FRA-Quiz C 2 Dr. Vasanthi Mamidala"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "MM-I-Quiz C 2 Dr Vikas Kumar"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "BIO-Quiz D 1 Dr Sanjay Singh"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "MM-I-Quiz D 2 Dr Rajesh Aithal"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       ""
@@ -7797,20 +7839,6 @@
     [
       "",
       "",
-      "",
-      "C",
-      ""
-    ],
-    [
-      "",
-      "",
-      "",
-      "D",
-      ""
-    ],
-    [
-      "",
-      "",
       "14:30 - 16:00",
       "A",
       "BIO A 19 Dr Sonakshi Gupta LH-2"
@@ -7837,36 +7865,15 @@
       ""
     ],
     [
-      "",
-      "",
-      "16:15 - 17:45",
-      "A",
-      "Quiz Slot A 31"
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      "Quiz Slot B 30"
-    ],
-    [
-      "",
-      "",
-      "",
-      "C",
-      "Quiz Slot C 31"
-    ],
-    [
-      "",
-      "",
-      "",
-      "D",
-      "Quiz Slot D 30"
-    ],
-    [
       "10-Sep-2026",
       "Thursday",
+      "",
+      "B",
+      "BIO-Quiz B 1 Dr Rinki Dahiya"
+    ],
+    [
+      "",
+      "",
       "08:30 - 10:00",
       "A",
       ""
@@ -7926,13 +7933,6 @@
       "12:00 - 13:30",
       "A",
       "FRA A 19 Dr Amrinder Singh LH-2"
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      ""
     ],
     [
       "",
@@ -8093,6 +8093,34 @@
       "",
       "14:30 - 16:00",
       "A",
+      "Quiz Slot A 31"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "Quiz Slot B 30"
+    ],
+    [
+      "",
+      "",
+      "",
+      "C",
+      "Quiz Slot C 31"
+    ],
+    [
+      "",
+      "",
+      "",
+      "D",
+      "Quiz Slot D 30"
+    ],
+    [
+      "",
+      "",
+      "16:15 - 17:45",
+      "A",
       "Quiz Slot A 32"
     ],
     [
@@ -8115,34 +8143,6 @@
       "",
       "D",
       "Quiz Slot D 31"
-    ],
-    [
-      "",
-      "",
-      "16:15 - 17:45",
-      "A",
-      "Quiz Slot A 33"
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      "Quiz Slot B 32"
-    ],
-    [
-      "",
-      "",
-      "",
-      "C",
-      "Quiz Slot C 33"
-    ],
-    [
-      "",
-      "",
-      "",
-      "D",
-      "Quiz Slot D 32"
     ]
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:47:17.543Z",
+  "updatedAt": "2026-09-07T10:23:21.921Z",
   "source": "https://script.google.com/macros/s/AKfycbyHZa8NgMdsxHIx1Eg5mguhTw00iP7bnbgSgOo5LRm357XuiqzMJXCNmVSUDFlohZAC/exec",
   "rowCount": 1163,
   "rows": [
@@ -7868,8 +7868,22 @@
       "10-Sep-2026",
       "Thursday",
       "",
+      "A",
+      "FRA-Quiz A 1 Dr Amrinder Singh"
+    ],
+    [
+      "",
+      "",
+      "",
       "B",
       "BIO-Quiz B 1 Dr Rinki Dahiya"
+    ],
+    [
+      "",
+      "",
+      "",
+      "B",
+      "FRA-Quiz B 1 Dr Amrinder Singh"
     ],
     [
       "",
@@ -7980,20 +7994,6 @@
       "",
       "",
       "16:15 - 17:45",
-      "A",
-      ""
-    ],
-    [
-      "",
-      "",
-      "",
-      "B",
-      ""
-    ],
-    [
-      "",
-      "",
-      "",
       "C",
       ""
     ],
